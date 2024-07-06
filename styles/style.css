@@ -1,0 +1,43 @@
+.bg-bz-color{
+    background-color: #E76F56;
+    color: aliceblue;
+    font-weight: 700;
+    padding:7px 20px;
+}
+.bg-bz-color-2{
+    background-color: #ffe5df;
+    color: #E76F56;
+    font-weight: 700;
+    padding:10px 30px;
+}
+.bg-bz-color-2:hover{
+    background-color: #E76F56;
+    color: aliceblue;
+    font-weight: 700;
+    padding:10px 30px;
+}
+.header-background{
+    background-color: #264653;
+}
+.text-light-emphasis-bz{
+    color:#ffece8;
+}
+.bz-text-size
+{
+    font-size:3.2rem;
+}
+.paragraph-color-bz{
+    color: #E76F56;
+}
+.special-hr{
+    border: 1px solid #f72900;
+}
+.black-and-white{
+    filter:grayscale(100%);
+}
+.text-color-para{
+    color:rgb(95, 95, 95);
+}
+.jaja{
+    text-decoration: none;
+}
